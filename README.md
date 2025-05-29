@@ -14,15 +14,11 @@ The application ensures that all user inputs are validated and handles unexpecte
 ## How to Run
 1. **Clone or download** this repository.
 2. Ensure you have **Python 3.6 or higher** installed.
-3. Make the script executable (optional):
-   ```bash
-   chmod +x finance_tracker.py
-   ```
-4. Run the program:
+3. Run the program:
    ```bash
    python3 finance_tracker.py
    ```
-5. Follow the on-screen menu prompts to add expenses, view all entries, view summaries, or exit.
+4. Follow the on-screen menu prompts to add expenses, view all entries, view summaries, or exit.
 
 ## Python Concepts Used
 - **Variables & Data Types**: strings, floats, dictionaries, lists, tuples.
